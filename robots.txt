@@ -1,0 +1,33 @@
+User-agent: Googlebot
+Disallow: 
+
+User-agent: googlebot-image
+Disallow: 
+
+User-agent: googlebot-mobile
+Disallow:
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: AnthropicBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://a1itrental.com/sitemap.xml
+
+
+
+
+
